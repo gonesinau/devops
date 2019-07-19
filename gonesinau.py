@@ -1,1 +1,1 @@
-Welcome to Gone Sinau DevOps Repository!
+print ("Welcome to Gone Sinau DevOps Repository!")
